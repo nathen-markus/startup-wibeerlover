@@ -4,7 +4,8 @@
     <title>Startup</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <!-- Add icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 
@@ -26,7 +27,11 @@
           <a href="http://eepurl.com/haqvW9">
             <button class="btn btn-warning btn-xl">Find out more</button>
         </a>
-          </section>
+        </section>
+        <div class="buffer col-12"></div>
+        <section class="text-center col-12">
+          <a href="https://www.instagram.com/wi.beer.lover/" class="fa fa-instagram"></a>
+        </section>
         </div>
       </div>
     </body>
