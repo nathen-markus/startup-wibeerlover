@@ -12,8 +12,8 @@
   <!-- Disable tap highlight on IE -->
   <meta name="msapplication-tap-highlight" content="no">
   
-  <link rel="apple-touch-icon" sizes="180x180" href="./apple-icon-180x180.png">
-  <link href="./assets/favicon.ico" rel="icon">
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+  
 
   <title>WI Beer Lover &#x1F49A;</title>  
 
@@ -22,7 +22,7 @@
 <body class="">
 
 <!-- Add your content of header -->
-<div class="background-color-layer" style="background-image: url('wibeerlogo.jpg')"
+<div class="background-color-layer" style="background-image: url(wibeerlogo.jpg)"
 ></div>
 <main class="content-wrapper">
   <header class="white-text-container section-container">
@@ -51,7 +51,7 @@
             <h2>About us</h2>
             <div class="row">
               <div class="col-md-4">
-                <p><img src="./wibeerlogo.jpg" class="img-responsive" alt=""></p>
+                <p><img src="wibeerlogo.jpg" class="img-responsive" alt=""></p>
               </div>
               <div class="col-md-8">
 
@@ -85,7 +85,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <p><img src="./mashup-icon.svg" alt=""></p>
+        <p><img src="mashup-icon.svg" alt=""></p>
         
         <p>
           <a class="fa-icon fa-icon-2x" href="https://www.facebook.com/wi.beer.lover" title="">
