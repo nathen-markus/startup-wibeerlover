@@ -17,7 +17,9 @@
 
   <title>WI Beer Lover &#x1F49A;</title>  
 
-<link href="./main.d8e0d294.css" rel="stylesheet"></head>
+<link href="./main.d8e0d294.css" rel="stylesheet">
+<script data-ad-client="ca-pub-4100013307281468" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
 
 <body class="">
 
@@ -58,6 +60,82 @@
               <p>WI Beer Lover is a community.  It is our goal to encourage people to get out there and drink more local beer.</p>
               <p>We will be running various social media promotions with a number of local and national breweries to get people up, and out experiencing new things.  And above all else drinking quality local beer, and supporting local business</p>
               <p>If you are interested in colaborating with us.  Do not hesitate to reach out.  What is a community, without people? <a href = "mailto: Nathen@wibeerlover.us">Send Email</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card">
+          <div class="card-block">
+            <h2>Past Events</h2>
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+            
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="Events2.jpg" class="img-responsive" alt="...">
+                <div class="carousel-caption">
+                  <p></p> 
+                </div>
+              </div>
+              <div class="item">
+                <img src="Events4.jpg" class="img-responsive" alt="...">
+                <div class="carousel-caption">
+                  <p></p>
+                </div>
+              </div>
+              <div class="item">
+                <img src="Events5.jpg" class="img-responsive" alt="...">
+                <div class="carousel-caption">
+                  <p></p>
+                </div>
+              </div>
+              <div class="item">
+                <img src="Events6.jpg" class="img-responsive" alt="...">
+                <div class="carousel-caption">
+                  <p></p>
+                </div>
+              </div>
+              <div class="item">
+                <img src="Events7.jpg" class="img-responsive" alt="...">
+                <div class="carousel-caption">
+                  <p></p>
+                </div>
+              </div>
+            </div>  <!--this is the last div for the events section-->
+            
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+              
+            </ol>
+
+          </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-block">
+            <h2>Beers</h2>
+            <div class="row">
+              <div class="col-md-4">
+                <img src="Beer3.jpg" class="img-responsive" alt="">
+                
+                <p></p>
+              </div>
+              <div class="col-md-4">
+                <img src="Beer4.jpg" class="img-responsive" alt="">
+                
+                <p></p>
+              </div>
+              <div class="col-md-4">
+                <img src="Beer6.jpg" class="img-responsive" alt="">
+                
+                <p></p>
               </div>
             </div>
           </div>
