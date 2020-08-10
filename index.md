@@ -65,59 +65,7 @@
           </div>
         </div>
         
-        <div class="card">
-          <div class="card-block">
-            <h2>Past Events</h2>
-            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-            
 
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner" role="listbox">
-              <div class="item active">
-                <img src="Events2.jpg" class="img-responsive" alt="...">
-                <div class="carousel-caption">
-                  <p></p> 
-                </div>
-              </div>
-              <div class="item">
-                <img src="Events4.jpg" class="img-responsive" alt="...">
-                <div class="carousel-caption">
-                  <p></p>
-                </div>
-              </div>
-              <div class="item">
-                <img src="Events5.jpg" class="img-responsive" alt="...">
-                <div class="carousel-caption">
-                  <p></p>
-                </div>
-              </div>
-              <div class="item">
-                <img src="Events6.jpg" class="img-responsive" alt="...">
-                <div class="carousel-caption">
-                  <p></p>
-                </div>
-              </div>
-              <div class="item">
-                <img src="Events7.jpg" class="img-responsive" alt="...">
-                <div class="carousel-caption">
-                  <p></p>
-                </div>
-              </div>
-            </div>  <!--this is the last div for the events section-->
-            
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-              <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-              <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-              <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-              <li data-target="#carousel-example-generic" data-slide-to="3"></li>
-              <li data-target="#carousel-example-generic" data-slide-to="4"></li>
-              
-            </ol>
-
-          </div>
-          </div>
-        </div>
         <div class="card">
           <div class="card-block">
             <h2>Beers</h2>
