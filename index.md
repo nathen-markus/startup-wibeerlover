@@ -60,7 +60,7 @@
               <p>WI Beer Lover is a community.  It is our goal to encourage people to get out there and drink more local beer.</p>
               <p>We will be running various social media promotions with a number of local and national breweries to get people up, and out experiencing new things.  And above all else drinking quality local beer, and supporting local business</p>
               <p>If you are interested in colaborating with us.  Do not hesitate to reach out.  What is a community, without people? <a href = "mailto: Nathen@wibeerlover.us">Send Email</a></p>
-              <img src="events3.jpg">
+              <p><img src="events3.jpg"></p>
             </div>
             </div>
           </div>
