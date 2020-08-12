@@ -49,7 +49,7 @@
      <div class="col-xs-12">
 
         <div class="card">
-          <div class="card-block">
+          <div class="card-block text-justify">
             <h2>About us</h2>
             <div class="row">
               <div class="col-md-4">
@@ -61,7 +61,7 @@
                 <p>We will be running various social media promotions with a number of local and national breweries to get people up and out experiencing new things.  And above all else, drinking quality, local beer, and supporting local businesses.</p>
                 <p>If you are interested in collaborating with us, do not hesitate to reach out.  What is a community without people? <a href = "mailto: Nathen@wibeerlover.us">Send Email</a></p>              
                 
-                <img class="img-responsive img-circle" src="events3.jpg">
+                <img class="img-responsive img-circle center-block" src="events3.jpg">
 
             </div>
             </div>
@@ -70,7 +70,7 @@
         
 
         <div class="card">
-          <div class="card-block">
+          <div class="card-block text-uppercase text-center">
             <h2>Social Network</h2>
             <div class="row">
               <div class="col-md-3">
